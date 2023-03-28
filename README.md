@@ -26,7 +26,7 @@ To install Python, follow these steps:
 python --version
 ```
 
-###Installing Django
+### Installing Django
 
 To install Django, follow these steps:
 
@@ -40,7 +40,7 @@ django-admin --version
 ```
 This should display the version number of Django that you installed.
 
-###Installing Visual Studio Code
+### Installing Visual Studio Code
 To install Visual Studio Code, follow these steps:
 
 Go to the official Visual Studio Code website at https://code.visualstudio.com/ and download the latest version of Visual Studio Code for your operating system.
