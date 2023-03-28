@@ -17,4 +17,5 @@ To install Python, follow these steps:
 1. Go to the official Python website at https://www.python.org/downloads/ and download the latest version of Python for your operating system.
 2. Run the installation file and follow the instructions to install Python on your computer.
 3. Once Python is installed, you can check if it's working by opening a command prompt or terminal and running the following command:
-```python --version```
+```sh
+python --version```
