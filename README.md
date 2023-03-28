@@ -16,7 +16,9 @@ Go to the official Python website at https://www.python.org/downloads/
 and download the latest version of Python for your operating system.
 Run the installation file and follow the instructions to install Python on your computer.
 Once Python is installed, you can check the version by opening a command prompt or terminal window and typing 
-'''python --version'''
+'''
+python --version
+'''
 
 2. Django
 Django is a powerful web framework for Python that makes it easy to build web applications. To install Django:
