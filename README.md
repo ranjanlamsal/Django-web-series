@@ -4,7 +4,7 @@ Welcome to the Django Web Development Series! This repository contains the prere
 
 ##Course Structure 
 We will be following the course structure mentioned below. Fell free to reach out to us if you have any suggestions.
-![Alt Text](/Django-Series)
+![Django-web-series](/Django-Series)
 
 
 ## Prerequisites
