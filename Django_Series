@@ -1,0 +1,115 @@
+Python-Django Series
+Course Structure 
+
+Day One : Python Basics and Introduction to Django [~2 hours]
+
+About KUOSC Python Community and Django series, course structure, and some protocols[10 minutes]
+
+Python Basics: A brief introduction to Python programming. [1 hour 20 minutes]
+Variables
+Data Types
+Control FLow
+Functions
+OOP in python
+
+
+Django Overview: [5 minutes]
+Introduction to Django and its features, explaining what it is and why it's a useful framework for web development.
+Highlight the advantages of Django over other web frameworks
+Some popular websites built with Django.
+
+Django Installation: [10 minutes]
+Installing django on windows, Linux and Mac OS
+
+Creating and building Django Project [5 minutes]
+
+Conclusion [5 minutes]
+
+
+
+Day TWO: Diving into Django [2 hours + ]
+
+HOW DATA comunication works in django
+
+Recap of day 1 [10 minutes]
+
+Creating Django Project
+
+Understanding the project structure [10 minutes]
+
+
+Views and Urls  : Understanding the flow of django site, creating some functions and the urls to the functions 
+[15 minutes]
+
+Templates and rendering html css files [15 minutes]
+
+Implementing bootstrap in our django project [10 minutes]
+
+Adding Application in our projects and understanding the purpose of application [15 minutes]
+
+Models.py in django and defining a model class [15 minutes]
+
+Admin Panel in Django [15 minutes]
+
+Media files in django [15 minutes]
+
+Conclusion and assignment [10 minutes]
+
+
+Day THREE,FOUR : Project 1 [2 hours a day]
+
+A simple blog website with Django where users can create an account, log in, and create blog posts. Users should be able to view, edit and delete their own posts. 
+
+
+
+DAY FIVE : API
+
+Pure backend in django. How it works? FrontEnd and backend communication. [20 minutes]
+
+API and Restful API [20 minutes]:
+Describing about API
+Creating python API client 
+
+GET and POST request:
+Using get and post request in our api client
+
+Project 3: [1 hour]
+
+Weather App using publicly available API
+
+
+Day Six : DRF [2.5-3 hours]
+ Django Model Instance as API Response [20]
+ Django Model Instance to Dictionary[15]
+ Rest Framework View & Response [20]
+ Django Rest Framework Model Serializers [20]
+ Ingest Data with Django Rest Framework Views [20]
+ Django Rest Framework Generics RetrieveAPIView [15]
+ Django Rest Framework CreateAPIView [20]
+ Django Rest Framework ListAPIView & ListCreateAPIView [10]
+ Using Function Based Views For Create Retrieve or List [10]
+ UpdateAPIView & DestroyAPIView [10]
+ 
+Day Seven : Permission and Authentication  hours[2]
+ Session Authentication & Permissions [20]
+ User & Group Permissions with DjangoModelPermissions [20]
+ Custom Permissions [15]
+ Token Authentication [20]
+ 
+ Day Eight :
+ 
+ JSON WEB Token Authentication with simplejwt [40]
+ Creating Login Signup using session authentication and jwt [30]
+ 
+ Starting project : Blog Media application in DRF with user [30]
+ registration, posting blogs, liking/disliking and commenting
+ others blogs.
+ 
+Day Nine and Ten : PROJECT [2-2.5 hours a day]
+ 
+
+
+
+ 
+
+
