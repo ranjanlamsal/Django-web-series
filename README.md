@@ -63,4 +63,10 @@ Once the extensions are installed, you may be prompted to restart Visual Studio 
 
 That's it! You now have all the software you need to start the Django Web Development Series. If you have any questions or issues with the installation, please don't hesitate to reach out to us for assistance.
 
+```
+Ranjan Lamsal
+984346126
+lamsalranjan19@gmail.com
+```
+
 
