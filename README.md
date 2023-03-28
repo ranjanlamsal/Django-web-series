@@ -1,47 +1,46 @@
-# Django-web-series
+Django Web Development Series
+Welcome to the Django Web Development Series! This repository contains the prerequisite installation guide for the course, as well as the code for the three hands-on projects.
 
-##Welcome to the Django Web Development Series!
+Prerequisites
+Before you start the course, you'll need to install the following software:
 
-We're excited to have you join us for our hands-on Django web development series. In this course, we'll guide you through the process of building web applications with Django, from the basics of Python to the complexities of backend development.
-Whether you're new to web development or you're a seasoned developer, this course is designed to help you advance your skills and take your career to the next level.
-We believe that learning should be fun and engaging, which is why we've designed this course to be hands-on and interactive. You'll have plenty of opportunities to ask questions, collaborate with other learners, and get feedback on your work.
-
-#Prerequisite Installation Guide
-This guide will walk you through the software prerequisites you need to install before you can start the Django web development series. Make sure you have these software tools installed and properly configured on your computer before the course begins.
-
-1. Python
-Python is a high-level, interpreted programming language that is used to develop web applications with Django. To install Python:
-
-Go to the official Python website at https://www.python.org/downloads/ 
-and download the latest version of Python for your operating system.
-Run the installation file and follow the instructions to install Python on your computer.
-Once Python is installed, you can check the version by opening a command prompt or terminal window and typing 
-'''
-python --version
-'''
-
-2. Django
-Django is a powerful web framework for Python that makes it easy to build web applications. To install Django:
-
-Open a command prompt or terminal window and type 
-'''pip install django'''
-to install the latest version of Django using the pip package manager.
-Once Django is installed, you can check the version by typing python 
-'''-m django --version'''
-
-3. Code Editor
-A code editor is a software tool that is used to write and edit code. There are many code editors available, and you can choose one that works best for you. Some popular code editors for Django development are:
-
+Python
+Django
 Visual Studio Code
-PyCharm
-Sublime Text
-You can download and install your preferred code editor from their official websites.
+Installing Python
+To install Python, follow these steps:
 
-#Visual Studio Code
-Visual Studio Code is a free, open-source code editor that is popular among web developers. It has many features that make it easy to develop Django applications. To install Visual Studio Code:
+Go to the official Python website at https://www.python.org/downloads/ and download the latest version of Python for your operating system.
 
-Go to the official Visual Studio Code website at https://code.visualstudio.com/
-and download the latest version of Visual Studio Code for your operating system.
+Run the installation file and follow the instructions to install Python on your computer.
+
+Once Python is installed, you can check if it's working by opening a command prompt or terminal and running the following command:
+
+css
+Copy code
+python --version
+This should display the version number of Python that you installed.
+
+Installing Django
+To install Django, follow these steps:
+
+Open a command prompt or terminal and run the following command:
+
+Copy code
+pip install Django
+This will install the latest version of Django.
+
+Once Django is installed, you can check if it's working by running the following command:
+
+css
+Copy code
+django-admin --version
+This should display the version number of Django that you installed.
+
+Installing Visual Studio Code
+To install Visual Studio Code, follow these steps:
+
+Go to the official Visual Studio Code website at https://code.visualstudio.com/ and download the latest version of Visual Studio Code for your operating system.
 
 Run the installation file and follow the instructions to install Visual Studio Code on your computer.
 
@@ -57,18 +56,77 @@ d. In the search bar, type "Django" and press Enter.
 
 e. Click on the "Django" extension by Baptiste Darthenay and click on the "Install" button.
 
-Once the extensions are installed, you may be prompted to restart Visual Studio Code. After restarting, you can start using Visual Studio Code for Django development
+Once the extensions are installed, you may be prompted to restart Visual Studio Code. After restarting, you can start using Visual Studio Code for Django development.
 
-4. Git
-Git is a version control system that is used to manage your code and collaborate with other developers. To install Git:
+That's it! You now have all the software you need to start the Django Web Development Series. If you have any questions or issues with the installation, please don't hesitate to reach out to us for assistance.
 
-Go to the official Git website at https://git-scm.com/downloads and download the latest version of Git for your operating system.
-Run the installation file and follow the instructions to install Git on your computer.
-Once Git is installed, you can check the version by typing git --version.
+Projects
+This repository contains the code for the following three hands-on projects:
 
-5. GitHub
-GitHub is a web-based hosting service for Git repositories. To create a GitHub account:
+Project 1 - [insert project description]
+Project 2 - [insert project description]
+Project 3 - [insert project description]
+Each project has its own folder, with a README file containing instructions on how to run the project.
 
-Go to https://github.com/signup and create an account.
-Once you have created an account, you can use it to store your Django projects and collaborate with others.
-That's it! You now have all the software tools you need to get started with the Django web development series. If you have any questions or issues with the installation, please don't hesitate to reach out to us for assistance.
+We hope you enjoy the course and learn a lot from it!
+
+
+
+
+rl27021320@student.ku.edu.np
+Write above content in a markdown for github
+Sure! Here's the same content in a Markdown format for GitHub:
+
+Django Web Development Series
+Welcome to the Django Web Development Series! This repository contains the prerequisite installation guide for the course, as well as the code for the three hands-on projects.
+
+Prerequisites
+Before you start the course, you'll need to install the following software:
+
+Python
+Django
+Visual Studio Code
+Installing Python
+To install Python, follow these steps:
+
+Go to the official Python website at https://www.python.org/downloads/ and download the latest version of Python for your operating system.
+
+Run the installation file and follow the instructions to install Python on your computer.
+
+Once Python is installed, you can check if it's working by opening a command prompt or terminal and running the following command:
+
+css
+Copy code
+python --version
+This should display the version number of Python that you installed.
+
+Installing Django
+To install Django, follow these steps:
+
+Open a command prompt or terminal and run the following command:
+
+Copy code
+pip install Django
+This will install the latest version of Django.
+
+Once Django is installed, you can check if it's working by running the following command:
+
+css
+Copy code
+django-admin --version
+This should display the version number of Django that you installed.
+
+Installing Visual Studio Code
+To install Visual Studio Code, follow these steps:
+
+Go to the official Visual Studio Code website at https://code.visualstudio.com/ and download the latest version of Visual Studio Code for your operating system.
+
+Run the installation file and follow the instructions to install Visual Studio Code on your computer.
+
+Once Visual Studio Code is installed, you can open it and install the necessary extensions for Django development. Open Visual Studio Code and follow these steps:
+
+a. Click on the
+
+
+
+Stop generating
